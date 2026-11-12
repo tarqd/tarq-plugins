@@ -200,6 +200,29 @@
         "prompting",
         "claude-md"
       ]
+    },
+    {
+      "name": "superhuman-mail",
+      "description": "Superhuman Mail MCP server plus skills for inbox, calendar, drafting, and daily briefings",
+      "source": {
+        "source": "github",
+        "repo": "superhuman/mcp-mail"
+      },
+      "category": "productivity",
+      "tags": [
+        "superhuman",
+        "email",
+        "calendar",
+        "mcp",
+        "productivity"
+      ],
+      "keywords": [
+        "superhuman",
+        "mail",
+        "email",
+        "calendar",
+        "inbox"
+      ]
     }
   ]
 }
